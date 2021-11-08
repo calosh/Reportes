@@ -1,0 +1,35 @@
+
+¿Qué es DevOps ?
+
+Development + Operations, designa la unión de personas, procesos y tecnología para ofrecer valor a los clientes de forma constante.
+
+
+Permite que los roles que antes estaban aislados (desarrollo, operaciones de TI, ingeniería de la calidad y seguridad) 
+se coordinen y colaboren para producir productos mejores y más confiables.
+
+
+
+¿Qué es Azure DevOps?
+
+Conjunto de herramientas y servicios que nos ayudan en la administración del ciclo de vida de los proyectos de desarrollo de software.
+
+Soporta cualquier lenguaje de programación y cualquier plataforma de desarrollo
+
+
+
+https://www.optisolbusiness.com/insight/implementing-azure-devops-cicd-for-azure-web-apps
+
+
+
+
+------
+
+
+
+http://pruebadevopscxt.eastus.azurecontainer.io/
+
+https://github.com/calosh/netcore50-api-test/blob/master/ProjectTest.API/Controllers/HomeController.cs
+
+https://dev.azure.com/carlosxtacuri/DevopsOctubre/_build
+
+https://hub.docker.com/repository/docker/calosh/servicenet5
